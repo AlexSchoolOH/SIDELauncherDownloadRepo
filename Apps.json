@@ -70,12 +70,22 @@
         "Version":"1.0",
         "Author":"Alex Clevenger",
         "Code":"https://gist.githubusercontent.com/AlexSchoolOH/2ae2139c04609ca8bcc176d75a5079b5/raw/461964a3b6927807bdd09a2aad032905ba8fca21/gistfile1.txt"
-    },    
+    },
+    "DinosuarChrome":{
+        "Split":1,
+        "Name":"Offline",
+        "type":"Online",
+        "Logo":"<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='77.53518' height='75.15704' viewBox='0,0,77.53518,75.15704'><g transform='translate(-202.38533,-139.64935)'><g data-paper-data='{&quot;isPaintingLayer&quot;:true}' fill-rule='nonzero' stroke='none' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' style='mix-blend-mode: normal'><path d='M204.59233,167.96705c5.07151,3.64803 12.53798,7.22351 16.07393,9.06683c2.74647,1.43175 5.94605,2.89457 8.77969,4.10293c0.90163,0.38449 2.66364,-0.59001 2.91891,0.35636c0.60072,2.22705 1.51255,4.3058 1.9868,6.59135c0.42306,2.03882 0.83493,4.08017 1.21587,6.12728c1.16993,6.287 2.11617,14.69389 5.01045,20.4111c-8.11949,0.83679 -16.56538,-1.17553 -23.72208,-6.30373c-13.02731,-9.33485 -17.6515,-26.03374 -12.26357,-40.35212z' data-paper-data='{&quot;index&quot;:null}' fill='#6cff4a' stroke-width='0'/><path d='M269.77159,201.50083c-6.22562,6.22562 -14.23085,9.58701 -22.37819,10.08419c1.92419,-6.11235 1.48818,-14.56108 1.61824,-20.95469c0.04235,-2.08182 0.11615,-4.163 0.2014,-6.2435c0.09557,-2.33228 0.65655,-4.53181 0.88643,-6.82697c0.09768,-0.97532 1.99491,-0.30089 2.82186,-0.82713c2.59892,-1.65386 5.51744,-3.6184 7.99397,-5.47845c3.18841,-2.39474 9.97263,-7.13886 14.38207,-11.56438c7.64862,13.24931 5.8067,30.47846 -5.52578,41.81094z' fill='#fff54a' stroke-width='0'/><path d='M240.60001,139.64935c8.80436,0 16.84177,3.28368 22.95436,8.69317c-5.68269,2.96147 -11.34854,9.24394 -15.96147,13.67293c-1.50201,1.44212 -3.02582,2.86155 -4.55724,4.27241c-1.71674,1.58159 -3.66873,2.74022 -5.4542,4.2006c-0.75872,0.62058 -1.62337,-1.19785 -2.58022,-1.41049c-3.00717,-0.66826 -6.46002,-1.34283 -9.52644,-1.77874c-3.94788,-0.56121 -12.09964,-2.00378 -18.34691,-1.99241c3.96028,-14.77707 17.44557,-25.65748 33.47211,-25.65748z' fill='#ff4949' stroke-width='0'/><path d='M225.74977,180c0,-7.87018 6.38005,-14.25023 14.25023,-14.25023c7.87018,0 14.25023,6.38005 14.25023,14.25023c0,7.87018 -6.38005,14.25023 -14.25023,14.25023c-7.87018,0 -14.25023,-6.38005 -14.25023,-14.25023z' fill='#4ad8ff' stroke-width='0'/><text transform='translate(209.31003,185.76875) scale(0.5,0.5)' font-size='40' xml:space='preserve' fill='#ffffff' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='Sans Serif' font-weight='normal' text-anchor='start' style='mix-blend-mode: normal'><tspan x='0' dy='0'>offline</tspan></text></g></g></svg><!--rotationCenter:37.61467291425123:40.350651102272735-->",
+        "Version":"1.0",
+        "Author":"MysticReborn",
+        "Code":"https://gist.githubusercontent.com/AlexSchoolOH/c299234419dc7e1c7db1550a9d067b7f/raw/20f3362edfca14dcecfa08f80d3ba1b598af7239/Trex"
+    },
     "apps":[
     "TestApp",
     "MCCOS",
     "PocketLawyer",
     "Minesweeper",
-    "Side"
+    "Side",
+    "DinosuarChrome"
 ]
 }
